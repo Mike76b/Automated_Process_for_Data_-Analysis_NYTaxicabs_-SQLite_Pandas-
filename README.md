@@ -1,4 +1,4 @@
-# Automated_Process_for_Data_-Analysis_NYTaxicabs_-SQLite_Pandas-
+# Automated_Process_for_Data_Analysis_NYTaxicabs_SQLite_Pandas
 Sqlite3_Pandas_Matplotlib_DataAnalysis_Sample
 
 (EN) 

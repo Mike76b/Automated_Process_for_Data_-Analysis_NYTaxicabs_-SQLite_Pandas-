@@ -1,5 +1,11 @@
 # Automated_Process_for_Data_Analysis_NYTaxicabs_SQLite_Pandas
-Sqlite3_Pandas_Matplotlib_DataAnalysis_Sample
+NOTE :  If you have issues to see the notebook:
+
+  copy this link  https://github.com/Mike76b/Automated_Process_for_Data_-Analysis_NYTaxicabs_-SQLite_Pandas-/blob/master/Automated%20Process%20for%20Data%20Analysis%20NYTaxicabs%20(SQLite_Pandas).ipynb 
+  
+  in this website  https://nbviewer.jupyter.org/
+  
+### Sqlite3_Pandas_Matplotlib_DataAnalysis_Sample / Ejemplo_de_Análisis_de_datos_usando_Sqlite3_Pandas_Matplotlib
 
 (EN) 
 

@@ -3,7 +3,7 @@ NOTE :  If you have issues to see the notebook:
 
   copy this link  https://github.com/Mike76b/Automated_Process_for_Data_-Analysis_NYTaxicabs_-SQLite_Pandas-/blob/master/Automated%20Process%20for%20Data%20Analysis%20NYTaxicabs%20(SQLite_Pandas).ipynb 
   
-  in this website  https://nbviewer.jupyter.org/
+  and paste it in this website  https://nbviewer.jupyter.org/
   
 ### Sqlite3_Pandas_Matplotlib_DataAnalysis_Sample / Ejemplo_de_Análisis_de_datos_usando_Sqlite3_Pandas_Matplotlib
 
@@ -28,6 +28,12 @@ Python 3: https://www.python.org/downloads/
 files: http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml
 
 (ES) 
+
+NOTA :  Si tiene problemas para ver el archivo .ipynb:
+
+  copie el siguiente enlace  https://github.com/Mike76b/Automated_Process_for_Data_-Analysis_NYTaxicabs_-SQLite_Pandas-/blob/master/Automated%20Process%20for%20Data%20Analysis%20NYTaxicabs%20(SQLite_Pandas).ipynb
+  
+  y péguelo en el siguiente sitio web  https://nbviewer.jupyter.org/
 
 Análisis de datos automatizado. Contiene ejemplos simples de distintos procesos llevados a cabo durante el análisis de datos usando Pandas, también se ha usado SQL(Sqlite3) en el código, se hacen algunos gráficos y se usan algunas funciones del módulo os para automatizar el procesamiento de los datos, generar archivos-reporte, guardar los gráficos en archivos y organizar automáticamente los archivos generados en su respectiva carpeta. 
 

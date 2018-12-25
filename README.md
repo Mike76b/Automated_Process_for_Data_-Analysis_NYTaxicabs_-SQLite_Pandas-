@@ -1,4 +1,6 @@
 # Automated_Process_for_Data_Analysis_NYTaxicabs_SQLite_Pandas
+(EN)
+
 NOTE :  If you have issues to see the notebook:
 
   copy this link  https://github.com/Mike76b/Automated_Process_for_Data_-Analysis_NYTaxicabs_-SQLite_Pandas-/blob/master/Automated%20Process%20for%20Data%20Analysis%20NYTaxicabs%20(SQLite_Pandas).ipynb 
@@ -6,8 +8,6 @@ NOTE :  If you have issues to see the notebook:
   and paste it in this website  https://nbviewer.jupyter.org/
   
 ### Sqlite3_Pandas_Matplotlib_DataAnalysis_Sample / Ejemplo_de_Análisis_de_datos_usando_Sqlite3_Pandas_Matplotlib
-
-(EN) 
 
 Automated Process for Data Analysis. Contains examples of different processes carried on during Data Analysis using Pandas, also the whole process is combined with SQL(Sqlite3) code, some plotting and with some functions from os module to make an automated process of the data, generating automated reports, saving the plots and moving the files to its folder. 
 

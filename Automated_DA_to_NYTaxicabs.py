@@ -147,7 +147,7 @@ for file in workingFilesList:
         allDayDF = pd.concat([nightDf, morningDf, middayDf, afternoonDf])
         
         # Create a .csv file with the cleaned data
-        allDayDF.to_csv("{}_allDayDF".format(rCurrentDf['Pickup_Date'][1][0:7]))
+        allDayDF.to_csv("{}_allDayDF.csv".format(rCurrentDf['Pickup_Date'][1][0:7]))
         print("The file {}_allDayDF.csv was successfully created".format(rCurrentDf['Pickup_Date'][1][0:7]),
               file=reportFile)
         print("\n", file=reportFile)
